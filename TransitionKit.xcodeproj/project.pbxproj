@@ -35,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1B1E33AD233169F900270012 /* TransitionKitPackage */ = {isa = PBXFileReference; lastKnownFileType = folder; path = TransitionKitPackage; sourceTree = "<group>"; };
 		1BCCDA1B232AC373005EAE2B /* TransitionKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TransitionKit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1BCCDA1E232AC373005EAE2B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1BCCDA20232AC373005EAE2B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -77,6 +78,7 @@
 		1BCCDA12232AC373005EAE2B = {
 			isa = PBXGroup;
 			children = (
+				1B1E33AD233169F900270012 /* TransitionKitPackage */,
 				1BCCDA1D232AC373005EAE2B /* TransitionKit */,
 				1BCCDA32232AC376005EAE2B /* TransitionKitTests */,
 				1BCCDA1C232AC373005EAE2B /* Products */,
